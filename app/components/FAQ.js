@@ -2,7 +2,7 @@
 const FAQ = () => {
   return (
    <section className="py-10">
-    <h2 className="font-semibold text-center text-3xl leading-[1.25rem]   my-5">Frequently asked questions</h2>
+    <h2 className="font-semibold text-center text-3xl leading-[1.25rem]  my-5">Frequently asked questions</h2>
     <ul className="flex flex-col gap-2 my-5 lg:max-w-[60%] mx-auto mb-10">
         <h2 className="opacity-80 font-semibold">General</h2>
         <li className="border px-2 py-3 rounded-md w-full bg-[#9ea0a9] text-white flex justify-between items-center">
