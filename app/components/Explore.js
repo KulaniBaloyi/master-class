@@ -40,17 +40,17 @@ whenever you need it.</h2>
 
     </div>
    
-    <div className='w-full h-[500px] flex gap-5 overflow-x-hidden py-5 '>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
-        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0'></div>
+    <div className='w-full h-[500px] flex gap-5 overflow-x-scroll py-5 snap-x'>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
+        <div className='w-[256px] h-full aspect[9/16] border rounded-lg shrink-0 snap-center'></div>
         
     </div>
     <button className='px-4 py-2  font-semibold rounded-md  tracking-[.01em] leading-8 text-lg border self-center '>Explore Classes</button>

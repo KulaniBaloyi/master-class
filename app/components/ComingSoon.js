@@ -4,9 +4,9 @@ const ComingSoon = () => {
   return (
     <div className='ml-[2.5%]'>
         <h2 className='text-3xl font-semibold leading-8'>Coming Soon</h2>
-        <section className='my-5 flex flex-col relative'>
+        <section className=' flex flex-col relative'>
 
-    <div className='w-full h-[500px] flex gap-5 overflow-x-hidden py-5 pr-5 items-center '>
+    <div className='w-full h-[500px] flex gap-5 overflow-x-hidden pr-5 items-center '>
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0'></div>
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0'></div>
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0'></div>
