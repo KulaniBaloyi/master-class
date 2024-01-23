@@ -4,7 +4,7 @@ import React from 'react'
 const TrailerSection = () => {
   return (
     <>
-    <h2 className='font-semibold text-center text-5xl lg:w-3/5 mx-auto  my-5'>Meet the world's best.
+    <h2 className='font-semibold text-center text-5xl lg:w-3/5 mx-auto  my-5'>Meet the worlds best.
 New classes added every month.
 </h2>
 <div className='w-full h-[700px] relative backG'>

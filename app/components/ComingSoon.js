@@ -19,6 +19,7 @@ const ComingSoon = () => {
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0 snap-center'></div>
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0 snap-center'></div>
         <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0 snap-center'></div>
+        <div className='h-[300px] max-w-full aspect-video border rounded-xl shrink-0 snap-center'></div>
         
         <button onClick={slideLeft} className='absolute left-0 top-1/2 -translate-y-1/2 rounded-full bg-[#9ea0a9] place-content-center p-2 '>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6 text-white">
